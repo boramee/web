@@ -4,16 +4,16 @@
 		<link></link>
 		<description></description>
 		<item>
-			<title>고양이를 부탁해.E10.181103.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:967499848540ccc9832e8f6125e8eb164fa81070</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>고양이를 부탁해.E10.181103.720p NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>야생여정.E18.181103.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:bac5be914735934984678ca1d3963ed4a5e9c98a</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>야생여정.E18.181103.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>고양이를 부탁해.E10.181103.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:967499848540ccc9832e8f6125e8eb164fa81070</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>고양이를 부탁해.E10.181103.720p-NEXT</showrss:showname>
 		</item>
 		<item>
 			<title>SBS 뉴스토리.E205.181103.1080p-NEXT</title>
@@ -70,16 +70,28 @@
 			<showrss:showname>세상에 나쁜 개는 없다.E10.181102.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>명견만리.E11.181102.720p NEXT</title>
+			<title>명견만리.E11.181102.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:f8e0648a22c2c7004f4c1e016847640a200965ed</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>명견만리.E11.181102.720p NEXT</showrss:showname>
+			<showrss:showname>명견만리.E11.181102.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>명의.E585.181102.720p NEXT</title>
+			<title>명의.E585.181102.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:7ff9af8d8b2efc7c76a595914be57bb72534e9d1</link>
 			<showrss:showid></showrss:showid>
-			<showrss:showname>명의.E585.181102.720p NEXT</showrss:showname>
+			<showrss:showname>명의.E585.181102.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>메디컬 다큐-7요일.E79.181102.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:a03d4447418a87e0031b7e59126213abf55ca6c7</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>메디컬 다큐-7요일.E79.181102.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>관찰카메라 24.E59.181102.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:c4dc209aa09cc91e081750e3e412a7f98ab31d04</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>관찰카메라 24.E59.181102.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
