@@ -10,18 +10,6 @@
 			<showrss:showname>SBS 스페셜.E548.181104.720p NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>신서유기 6.E01.181104.720p NEXT</title>
-			<link>magnet:?xt=urn:btih:131b25ef179493bfda614c2c27388dffebbaa77c</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신서유기 6.E01.181104.720p NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>신서유기 6.E01.181104.1080p NEXT</title>
-			<link>magnet:?xt=urn:btih:aee978037401f0b3b4ef8ab9faa6706f486a5e93</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>신서유기 6.E01.181104.1080p NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>저널리즘 토크쇼 J.E18.181104.720p NEXT</title>
 			<link>magnet:?xt=urn:btih:c459850e89a4ae5adb7ba5bbbda059f108b0038c</link>
 			<showrss:showid></showrss:showid>
@@ -92,6 +80,18 @@
 			<link>magnet:?xt=urn:btih:d39ec4783b61b8480197cf7c8deaafdc52bd1d18</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>내 몸 플러스.E119.181104.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>팔도밥상.E96.181104.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:4628d3ec420acc8a1d048a79bb3843ab4d626aff</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>팔도밥상.E96.181104.720p NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>다큐 플러스.E35.181104.720p NEXT</title>
+			<link>magnet:?xt=urn:btih:e38cda1bef181deaec5226b14592f5bdae38ee7c</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>다큐 플러스.E35.181104.720p NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
