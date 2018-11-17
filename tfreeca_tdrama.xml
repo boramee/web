@@ -34,12 +34,6 @@
 			<showrss:showname>제3의 매력.E15.181116.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>정글의 법칙.E340.181116.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:883F5E131664468EFB22DF55D04542AD5B7890E5</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>정글의 법칙.E340.181116.1080p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>UHD KBS 드라마스페셜 2018-닿을 듯 말 듯.E10.181116.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:E66BC1BC742E0F8C1A4F8CF74220A365030D4E63</link>
 			<showrss:showid></showrss:showid>
@@ -206,6 +200,12 @@
 			<link>magnet:?xt=urn:btih:65C1C0F4D06D35B7BDD53F739FC7BC8C1A73E31B</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>내 뒤에 테리우스 29-30회 합본.E15.181114.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>하늘에서 내리는 일억개의 별.E13.181114.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:2F787B24FB045264AF7662A7C00BBCAF5F33B26E</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>하늘에서 내리는 일억개의 별.E13.181114.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
