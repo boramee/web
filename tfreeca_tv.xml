@@ -195,23 +195,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>어쩌다 어른.E161.181128.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>한국기행.E2327.181128.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:F7D23CB650BF79F4C18BDCAC0DDAB4F82A2EB485</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>한국기행.E2327.181128.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>세계테마기행.E2203.181128.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:F4C4E10B4498A2CBCE2206218FEE3A40A411602A</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>세계테마기행.E2203.181128.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>2TV 생생정보.E899.181128.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:C77C583E8FD87BF3147F5BE52303FBDA056AE840</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>2TV 생생정보.E899.181128.720p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
