@@ -201,17 +201,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>인간극장.E4471.181227.720p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>EBS 초대석.E266.181226.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:571B4ED4F846CB86430280B348B0E23988725604</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>EBS 초대석.E266.181226.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>JTBC 뉴스룸.181226.360p-NEXT</title>
-			<link>magnet:?xt=urn:btih:CEAEB3E90FC783EE3AF41735CB79F48CAFF5C6A5</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>JTBC 뉴스룸.181226.360p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
