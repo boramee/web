@@ -189,29 +189,5 @@
 			<showrss:showid></showrss:showid>
 			<showrss:showname>서울 메이트 2.E07.190121.1080p-NEXT</showrss:showname>
 		</item>
-		<item>
-			<title>섹션 TV 연예통신.E948.190121.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:138941C9C7CE95145985D2F5C8DEB04F7D88E35B</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>섹션 TV 연예통신.E948.190121.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>서울 메이트 2.E07.190121.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:97C62D5E8297BD44D5DEE7E6139887094D8CF2FC</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>서울 메이트 2.E07.190121.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>우리말 겨루기.E749.190121.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:51288B321261CA46B318EC9A3B004E756620691B</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>우리말 겨루기.E749.190121.720p-NEXT</showrss:showname>
-		</item>
-		<item>
-			<title>썰전.E300.190121.1080p-NEXT</title>
-			<link>magnet:?xt=urn:btih:C8D2BBDA18EA3ACE5C626A90F92ABF068839A208</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>썰전.E300.190121.1080p-NEXT</showrss:showname>
-		</item>
 	</channel>
 </rss>
